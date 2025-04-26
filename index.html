@@ -1,30 +1,19 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 <head>
-    <title>Lista de Jogos da Comunidade Maker</title>
-    <script src="markdown-it.min.js"></script>
-    <script>
-        const markdown = new MarkdownIt();
-        async function carregarMarkdown() {
-            try {
-                const response = await fetch('README.md');
-                const markdownText = await response.text();
-                const htmlContent = markdown.render(markdownText);
-
-                const markdownContainer = document.createElement('div');
-                markdownContainer.innerHTML = htmlContent;
-
-                document.body.appendChild(markdownContainer); 
-            } catch (error) {
-                console.error("Erro ao carregar ou processar Markdown:", error);
-            }
-        }
-
-        carregarMarkdown();
-    </script>
+  <meta charset="UTF-8">
+  <title>Minha Página</title>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
-    <h1>LISTA DE JOGOS DA COMUNIDADE MAKER</h1>
-    <p id="markdown-content"></p>
+  <div id="markdown-content"></div>
+
+  <script>
+    fetch('readme.md')
+      .then(response => response.text())
+      .then(text => {
+        document.getElementById('markdown-content').innerHTML = marked.parse(text);
+      });
+  </script>
 </body>
 </html>
