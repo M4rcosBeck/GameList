@@ -260,7 +260,7 @@
 |||Engine|Estado||
 |-|-|-|-|-|
 |👤|**Livia**|RPG Maker VX Ace|Completo|[📥](https://terraluxgame.itch.io/livia)|
-|⿠|**RTP Adventures Zero**|RPG Maker VX Ace|Em Desenvolvimento|[📥](https://terraluxgame.itch.io/adventureszero-jam)|
+|⿠|**RTP Adventures Zero**|RPG Maker VX Ace|Completo|[📥](https://terraluxgame.itch.io/adventureszero-jam)|
 |🅰|**RTP Adventures Ace**|RPG Maker VX Ace|Em Desenvolvimento|[📥](https://terraluxgame.itch.io/adventures-ace)|
 |🪽|**Chronicles of Terralux - Odisseia Onírica**|RPG Maker MZ|Completo|[📥](https://terraluxgame.itch.io/odisseia)|
-|👸🏼|**Princesa - O outro lado da Jornada**|RPG Maker MV|Em Desenvolvimento|[📥](https://terraluxgame.itch.io/princesa)|
+|👸🏼|**Princesa - O outro lado da Jornada**|RPG Maker MV|Compelto|[📥](https://terraluxgame.itch.io/princesa)|
