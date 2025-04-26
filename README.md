@@ -76,7 +76,7 @@
 |||Engine|Estado||
 |-|-|-|-|-|
 |🐟|**The Legend of Zoe**|RPG Maker ❔|Completo|[📥](https://kairobr26.itch.io/the-legend-of-zoe-the-endles-war)|
-|🧛🏻‍♂️|**A Caçada**||Completo|[📥](https://kairobr26.itch.io/a-caada)|
+|🧛🏻‍♂️|**A Caçada**|RPG Maker ❔|Completo|[📥](https://kairobr26.itch.io/a-caada)|
 
 <br>
 
@@ -129,20 +129,23 @@
 <br>
 
 `MISTERDOVAH`
-> 🌐[Ver todos]()
+> 🌐[Ver todos](https://misterdovah.itch.io/)
 
 |||Engine|Estado||
 |-|-|-|-|-|
-|🏢|**Arcanis**|||[📥](https://misterdovah.itch.io/gamejamplus-arcanis)|
-|🦋|**Borboleta Dourada**|||[📥](https://misterdovah.itch.io/borboleta-dourada)|
-|👻|**BU!**|||[📥](https://misterdovah.itch.io/bu)|
-|🏰|**Heart Fable**|||[📥](https://misterdovah.itch.io/heart-fable)|
-|👺|**SINA**|||[📥](https://misterdovah.itch.io/sina)|
-|🌟|**Stars Walkers**|||[📥](https://misterdovah.itch.io/stars-walkers)|
-|🫀|**Okanobi**|||[📥](https://misterdovah.itch.io/okanobi)|
-|🌎|**Terra-Meio**|||[📥](https://misterdovah.itch.io/terra-meio)|
-|🎓|**Tesserato**|||[📥](https://misterdovah.itch.io/tesserato)|
-|🧩|**UNMEI**|||[📥](https://canal-jpao.itch.io/unmei)|
+|🏢|**Arcanis**|RPG Maker ❔|Em Desenvolvimento|[📥](https://misterdovah.itch.io/gamejamplus-arcanis)|
+|🦋|**Borboleta Dourada**|RPG Maker ❔|Completo|[📥](https://misterdovah.itch.io/borboleta-dourada)|
+|👻|**BU!**|RPG Maker ❔|Completo|[📥](https://misterdovah.itch.io/bu)|
+|🏰|**Heart Fable**|RPG Maker ❔|Completo|[📥](https://misterdovah.itch.io/heart-fable)|
+|👺|**SINA**|RPG Maker ❔|Completo|[📥](https://misterdovah.itch.io/sina)|
+|🌟|**Stars Walkers**|RPG Maker ❔|Completo|[📥](https://misterdovah.itch.io/stars-walkers)|
+|🫀|**Okanobi**|RPG Maker ❔|Protótipo|[📥](https://misterdovah.itch.io/okanobi)|
+|🌎|**Terra-Meio**|RPG Maker ❔|Completo|[📥](https://misterdovah.itch.io/terra-meio)|
+|🎓|**Tesserato**|RPG Maker ❔|Completo|[📥](https://misterdovah.itch.io/tesserato)|
+|🧩|**UNMEI**|RPG Maker ❔|Em Desenvolvimento|[📥](https://canal-jpao.itch.io/unmei)|
+|👧🏼|**Luna**|RPG Maker ❔|Em Desenvolvimento|[📥](https://misterdovah.itch.io/luna)|
+|♾️|**Para Sempre**|RPG Maker VX Ace|Em Desenvolvimento|[📥](https://misterdovah.itch.io/para-sempre)|
+|❄️|**Elohim**|RPG Maker ❔|Em Desenvolvimento|[📥](https://misterdovah.itch.io/elohim)|
 
 <br>
 
@@ -200,10 +203,10 @@
 
 |||Engine|Estado||
 |-|-|-|-|-|
-🛡️ *Cavaleiros do Novo Norte**|RPG Maker ❔|Em Desenvolvimento|[📥](https://ryanvitor06.itch.io/demo-knights-of-the-new-north)|
-🎄 *Cavaleiros Natalinos**|RPG Maker ❔|Completo|[📥](https://ryanvitor06.itch.io/cavaleiros-natalinos)|
-🐦‍🔥 *Contos de Aldore – Toca do Dragão**|RPG Maker ❔|Completo|[📥](https://ryanvitor06.itch.io/contos-de-aldore-toca)|
-🗡 *O Último Juramento**|RPG Maker VX Ace|Completo|[📥](https://condadobraveheart.com/threads/jam-vx-ace-extra-nao-oficial-o-ultimo-juramento.8388/)|
+|🛡️|**Cavaleiros do Novo Norte**|RPG Maker ❔|Em Desenvolvimento|[📥](https://ryanvitor06.itch.io/demo-knights-of-the-new-north)|
+|🎄|**Cavaleiros Natalinos**|RPG Maker ❔|Completo|[📥](https://ryanvitor06.itch.io/cavaleiros-natalinos)|
+|🐦‍🔥|**Contos de Aldore – Toca do Dragão**|RPG Maker ❔|Completo|[📥](https://ryanvitor06.itch.io/contos-de-aldore-toca)|
+|🗡|**O Último Juramento**|RPG Maker VX Ace|Completo|[📥](https://condadobraveheart.com/threads/jam-vx-ace-extra-nao-oficial-o-ultimo-juramento.8388/)|
 
 <br>
 
@@ -212,8 +215,8 @@
 
 |||Engine|Estado||
 |-|-|-|-|-|
-🗝 *Conto Quebrado**|||[📥](https://samuwe-studios.itch.io/conto-quebrado)|
-👑 *O Destino de um Rei**|||[📥](https://nelelelen.itch.io/o-destino-de-um-rei)| 
+|🗝|**Conto Quebrado**|||[📥](https://samuwe-studios.itch.io/conto-quebrado)|
+|👑|**O Destino de um Rei**|||[📥](https://nelelelen.itch.io/o-destino-de-um-rei)| 
 
 <br>
 
@@ -241,20 +244,20 @@
 <br>
 
 # `DR. XGB`
-> 🌐[Ver todos]()
+> 🌐[Ver todos](https://drxgb.itch.io/)
 
 |||Engine|Estado||
 |-|-|-|-|-|
-|🪣|**Barrel Roller**|||[📥](https://drxgb.itch.io/barrel-roller)|
-|🕋|**Cárcere Tenebroso**|||[📥](https://drxgb.itch.io/carcere-tenebroso)|
-|🥖|**Flappy Pão**|||[📥](https://drxgb.itch.io/flappy-pao)|
-|🔵|**Hell-O**|||[📥](https://drxgb.itch.io/hell-o)|
-|🃏|**So-Lon-Yo**|||[📥](https://drxgb.itch.io/so-lon-yo)| 
+|🪣|**Barrel Roller**|RPG Maker ❔|Completo|[📥](https://drxgb.itch.io/barrel-roller)|
+|🕋|**Cárcere Tenebroso**|❔|Completo|[📥](https://drxgb.itch.io/carcere-tenebroso)|
+|🥖|**Flappy Pão**|❔|Completo|[📥](https://drxgb.itch.io/flappy-pao)|
+|🔵|**Hell-O**|❔|Completo|[📥](https://drxgb.itch.io/hell-o)|
+|🃏|**So-Lon-Yo**|❔|Completo|[📥](https://drxgb.itch.io/so-lon-yo)| 
 
 <br>
 
 # `GUILHERME`
-> 🌐[Ver todos]()
+> 🌐[Ver todos](https://terraluxgame.itch.io/)
 
 |||Engine|Estado||
 |-|-|-|-|-|
