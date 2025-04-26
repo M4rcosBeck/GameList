@@ -8,7 +8,7 @@
 |-|-|-|-|-|
 |🍬|**Fumiko**|RPG Maker ❔|Em Desenvolvimento|[📥](https://aleth728.itch.io/fumiko)|
 |🐇|**Apu’s Journey**|RPG Maker ❔|Em Desenvolvimento|[📥](https://aleth728.itch.io/a-jornada-de-apu)|
-|🛒|**Apu’s Journey**|RPG Maker ❔|Em Desenvolvimento|[Em Breve](https://store.steampowered.com/app/2661730/Apus_Journey/)|
+|🛒|**Apu’s Journey**|RPG Maker ❔|Em Breve|[🔜](https://store.steampowered.com/app/2661730/Apus_Journey/)|
 
 <br>
 
@@ -56,27 +56,27 @@
 `HERCO`
 |||Engine|Estado||
 |-|-|-|-|-|
-|🎃| *Hell-O-Ween**|||[📥](https://herco.itch.io/hell-o-ween)|
+|🎃|**Hell-O-Ween**|RPG Maker ❔|Completo|[📥](https://herco.itch.io/hell-o-ween)|
 
 <br>
 
 `HERIC`
-> 🌐[Ver todos]()
+> 🌐[Ver todos](https://hericfisio.itch.io/)
 
 |||Engine|Estado||
 |-|-|-|-|-|
-|🧪| *Mistland**|||[📥](https://hericfisio.itch.io/mistland)|
-|📱| *Utopia**|||[📥](https://hericfisio.itch.io/utopiabr)|
+|🧪|**Mistland**|RPG Maker ❔|Em Desenvolvimento|[📥](https://hericfisio.itch.io/mistland)|
+|📱|**Utopia**|RPG Maker ❔|Protótipo|[📥](https://hericfisio.itch.io/utopiabr)|
 
 <br>
 
 `KAIRO`
-> 🌐[Ver todos]()
+> 🌐[Ver todos](https://kairobr26.itch.io/)
 
 |||Engine|Estado||
 |-|-|-|-|-|
-🐟 *The Legend of Zoe**|||[📥](https://kairobr26.itch.io/the-legend-of-zoe-the-endles-war)|
-🧛🏻‍♂️ *A Caçada**|||[📥](https://kairobr26.itch.io/a-caada)|
+|🐟|**The Legend of Zoe**|RPG Maker ❔|Completo|[📥](https://kairobr26.itch.io/the-legend-of-zoe-the-endles-war)|
+|🧛🏻‍♂️|**A Caçada**||Completo|[📥](https://kairobr26.itch.io/a-caada)|
 
 <br>
 
@@ -84,7 +84,7 @@
 
 |||Engine|Estado||
 |-|-|-|-|-|
-🩸 *Illbleed**|||[📥](https://klinios.itch.io/)|
+|🩸|**Illbleed**|RPG Maker ❔|Em Desenvolvimento|[📥](https://klinios.itch.io/)|
 
 <br>
 
@@ -98,6 +98,7 @@
 |💫|**Aurora dos Ecos**|RPG Maker MV|Completo|[📥](https://marcosbeck.itch.io/aurora-dos-ecos)|
 |🕳️|**Umbra Infinita**|RPG Maker MV|Acesso Antecipado|[📥](https://marcosbeck.itch.io/umbra-infinita)|
 |🐀|**Ectomorphs**|RPG Maker MZ|Pre-Alpha|[📥](https://marcosbeck.itch.io/ectomorphs)|
+|❤️|**Coração de Escamas**|RPG Maker MV|Em Breve|🔜|
 |🏜️|**Além das Dunas**|RPG Maker MZ|Em Breve|🔜|
 |🔎|**Gnosys**|RPG Maker MV|Em Breve|🔜|
 
@@ -114,7 +115,7 @@
 # `MAURÍCIO`
 |||Engine|Estado||
 |-|-|-|-|-|
-|🛒|**Valledi**|❔❔❔|Completo|[💲💲💲](https://store.steampowered.com/app/2151490/Valledi/)|
+|🛒|**Valledi**|RPG Maker ❔|Completo|[💲💲💲](https://store.steampowered.com/app/2151490/Valledi/)|
 
 <br>
 
@@ -122,8 +123,8 @@
 
 |||Engine|Estado||
 |-|-|-|-|-|
-🎈 *Baker Bros's Quarantine**|||[📥](https://dev-mime.itch.io/bakerbros)|
-🛒 *Baker Bros's Quarantine**|||[Em breve](https://store.steampowered.com/app/3310540/Baker)|
+|🎈|**Baker Bros's Quarantine**|RPG Maker ❔||[📥](https://dev-mime.itch.io/bakerbros)|
+|🛒|**Baker Bros's Quarantine**|RPG Maker ❔||[Em breve](https://store.steampowered.com/app/3310540/Baker)|
 
 <br>
 
@@ -132,16 +133,16 @@
 
 |||Engine|Estado||
 |-|-|-|-|-|
-🏢 *Arcanis**|||[📥](https://misterdovah.itch.io/gamejamplus-arcanis)|
-🦋 *Borboleta Dourada**|||[📥](https://misterdovah.itch.io/borboleta-dourada)|
-👻 *BU!**|||[📥](https://misterdovah.itch.io/bu)|
-🏰 *Heart Fable**|||[📥](https://misterdovah.itch.io/heart-fable)|
-👺 *SINA**|||[📥](https://misterdovah.itch.io/sina)|
-🌟 *Stars Walkers**|||[📥](https://misterdovah.itch.io/stars-walkers)|
-🫀 *Okanobi**|||[📥](https://misterdovah.itch.io/okanobi)|
-🌎 *Terra-Meio**|||[📥](https://misterdovah.itch.io/terra-meio)|
-🎓 *Tesserato**|||[📥](https://misterdovah.itch.io/tesserato)|
-🧩 *UNMEI**|||[📥](https://canal-jpao.itch.io/unmei)|
+|🏢|**Arcanis**|||[📥](https://misterdovah.itch.io/gamejamplus-arcanis)|
+|🦋|**Borboleta Dourada**|||[📥](https://misterdovah.itch.io/borboleta-dourada)|
+|👻|**BU!**|||[📥](https://misterdovah.itch.io/bu)|
+|🏰|**Heart Fable**|||[📥](https://misterdovah.itch.io/heart-fable)|
+|👺|**SINA**|||[📥](https://misterdovah.itch.io/sina)|
+|🌟|**Stars Walkers**|||[📥](https://misterdovah.itch.io/stars-walkers)|
+|🫀|**Okanobi**|||[📥](https://misterdovah.itch.io/okanobi)|
+|🌎|**Terra-Meio**|||[📥](https://misterdovah.itch.io/terra-meio)|
+|🎓|**Tesserato**|||[📥](https://misterdovah.itch.io/tesserato)|
+|🧩|**UNMEI**|||[📥](https://canal-jpao.itch.io/unmei)|
 
 <br>
 
@@ -150,15 +151,15 @@
 
 |||Engine|Estado||
 |-|-|-|-|-|
-👨🏼‍🦳 *As Aventuras de Rivero**|||[📥](https://oz-digital-games.itch.io/as-aventuras-de-rivero)|
-👑 *Palavras de Poder**|||[📥](https://oz-digital-games.itch.io/palavrasdepoder)|
-🙍🏽‍♀️ *Maria, Jornada de uma Vida**|||[📥](https://oz-digital-games.itch.io/maria-a-jornada-de-uma-vida)|
-🧖🏻‍♂️ *Messias**|||[📥](https://oz-digital-games.itch.io/messias)|
-👶🏻 *Contos de Vida**|||[📥](https://oz-digital-games.itch.io/contos-de-vida)|
-✨ *The Last Star**|||[📥](https://oz-digital-games.itch.io/the-last-star)|
-🐺 *Tíndalos**|||[📥](https://ahiane.itch.io/tindalos)|
-🐎 *Contos Medievais**|||[📥](https://oz-digital-games.itch.io/contosmedievais)|
-🎗 *O Horror Amarelo**|||[📥](https://oz-digital-games.itch.io/o-horror-amarelo)|
+|👨🏼‍🦳|**As Aventuras de Rivero**|||[📥](https://oz-digital-games.itch.io/as-aventuras-de-rivero)|
+|👑|**Palavras de Poder**|||[📥](https://oz-digital-games.itch.io/palavrasdepoder)|
+|🙍🏽‍♀️|**Maria, Jornada de uma Vida**|||[📥](https://oz-digital-games.itch.io/maria-a-jornada-de-uma-vida)|
+|🧖🏻‍♂️|**Messias**|||[📥](https://oz-digital-games.itch.io/messias)|
+|👶🏻|**Contos de Vida**|||[📥](https://oz-digital-games.itch.io/contos-de-vida)|
+|✨|**The Last Star**|||[📥](https://oz-digital-games.itch.io/the-last-star)|
+|🐺|**Tíndalos**|||[📥](https://ahiane.itch.io/tindalos)|
+|🐎|**Contos Medievais**|||[📥](https://oz-digital-games.itch.io/contosmedievais)|
+|🎗|**O Horror Amarelo**|||[📥](https://oz-digital-games.itch.io/o-horror-amarelo)|
 
 <br>
 
@@ -167,10 +168,10 @@
 
 |||Engine|Estado||
 |-|-|-|-|-|
-🔪 *Dream Souls Reaper**|||[📥](https://canal-jpao.itch.io/dream-souls-reaper)|
-👹 *Toca Hill**|||[📥](https://canal-jpao.itch.io/toca-hill)|
-🧩 *UNMEI**|||[📥](https://canal-jpao.itch.io/unmei)|
-🦴 *Vale dos Ossos**|||[📥](https://canal-jpao.itch.io/valley-of-bones)|
+|🔪|**Dream Souls Reaper**|||[📥](https://canal-jpao.itch.io/dream-souls-reaper)|
+|👹|**Toca Hill**|||[📥](https://canal-jpao.itch.io/toca-hill)|
+|🧩|**UNMEI**|||[📥](https://canal-jpao.itch.io/unmei)|
+|🦴|**Vale dos Ossos**|||[📥](https://canal-jpao.itch.io/valley-of-bones)|
 
 <br>
 
@@ -179,30 +180,30 @@
 
 |||Engine|Estado||
 |-|-|-|-|-|
-🦋 *Borboleta Dourada**|||[📥](https://misterdovah.itch.io/borboleta-dourada)|
-🐂 *Pega de Boi**|||[📥](https://markesxlima.itch.io/pega-de-boi)|
+|🦋|**Borboleta Dourada**|||[📥](https://misterdovah.itch.io/borboleta-dourada)|
+|🐂|**Pega de Boi**|||[📥](https://markesxlima.itch.io/pega-de-boi)|
 
 <br>
 
 # `RICHARD`
-> 🌐[Ver todos]()
+> 🌐[Ver todos](https://rickyobardo.itch.io/)
 
 |||Engine|Estado||
 |-|-|-|-|-|
-👨🏻‍✈ *Arquivos Ocultos**|||[📥](https://rickyobardo.itch.io/hidden-files)|
-🔥 *Sozinha na Fogueira**|||[📥](https://rickyobardo.itch.io/sozinha-na-fogueira)|
+|👨🏻‍✈|**Arquivos Ocultos**|RPG Maker ❔|Em Pausa|[📥](https://rickyobardo.itch.io/hidden-files)|
+|🔥|**Sozinha na Fogueira**|RPG Maker ❔|Completo|[📥](https://rickyobardo.itch.io/sozinha-na-fogueira)|
 
 <br>
 
 # `RYAN`
-> 🌐[Ver todos]()
+> 🌐[Ver todos](https://ryanvitor06.itch.io/)
 
 |||Engine|Estado||
 |-|-|-|-|-|
-🛡️ *Cavaleiros do Novo Norte**|||[📥](https://ryanvitor06.itch.io/demo-knights-of-the-new-north)|
-🎄 *Cavaleiros Natalinos**|||[📥](https://ryanvitor06.itch.io/cavaleiros-natalinos)|
-🐦‍🔥 *Contos de Aldore – Toca do Dragão**|||[📥](https://ryanvitor06.itch.io/contos-de-aldore-toca)|
-🗡 *O Último Juramento**|||[📥](https://condadobraveheart.com/threads/jam-vx-ace-extra-nao-oficial-o-ultimo-juramento.8388/)|
+🛡️ *Cavaleiros do Novo Norte**|RPG Maker ❔|Em Desenvolvimento|[📥](https://ryanvitor06.itch.io/demo-knights-of-the-new-north)|
+🎄 *Cavaleiros Natalinos**|RPG Maker ❔|Completo|[📥](https://ryanvitor06.itch.io/cavaleiros-natalinos)|
+🐦‍🔥 *Contos de Aldore – Toca do Dragão**|RPG Maker ❔|Completo|[📥](https://ryanvitor06.itch.io/contos-de-aldore-toca)|
+🗡 *O Último Juramento**|RPG Maker VX Ace|Completo|[📥](https://condadobraveheart.com/threads/jam-vx-ace-extra-nao-oficial-o-ultimo-juramento.8388/)|
 
 <br>
 
