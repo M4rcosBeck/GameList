@@ -15,5 +15,12 @@
         document.getElementById('markdown-content').innerHTML = marked.parse(text);
       });
   </script>
+  <script>
+    fetch('gamelist.md')
+      .then(response => response.text())
+      .then(text => {
+        document.getElementById('markdown-content').innerText = text;
+      });
+  </script>
 </body>
 </html>
