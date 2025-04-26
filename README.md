@@ -2,7 +2,7 @@
  Lista de Jogos da Comunidade Maker
 
 # `ALETH`
-> 🌐[Ver todos]()
+> 🌐[Ver todos](https://aleth728.itch.io/)
 
 |||Engine|Estado||
 |-|-|-|-|-|
@@ -46,21 +46,21 @@
 
 <br>
 
-`GABS TCHE`
+# `GABS TCHE`
 |||Engine|Estado||
 |-|-|-|-|-|
-|🛒|**Phil Alone**|RPG Maker ❔|❔❔❔|[📥](https://store.steampowered.com/app/1902020/Phil_Alone/)|
+|🛒|**Phil Alone**|RPG Maker ❔|Completo|[📥](https://store.steampowered.com/app/1902020/Phil_Alone/)|
 
 <br>
 
-`HERCO`
+# `HERCO`
 |||Engine|Estado||
 |-|-|-|-|-|
 |🎃|**Hell-O-Ween**|RPG Maker ❔|Completo|[📥](https://herco.itch.io/hell-o-ween)|
 
 <br>
 
-`HERIC`
+# `HERIC`
 > 🌐[Ver todos](https://hericfisio.itch.io/)
 
 |||Engine|Estado||
@@ -70,17 +70,17 @@
 
 <br>
 
-`KAIRO`
+# `KAIRO`
 > 🌐[Ver todos](https://kairobr26.itch.io/)
 
 |||Engine|Estado||
 |-|-|-|-|-|
-|🐟|**The Legend of Zoe**|RPG Maker ❔|Completo|[📥](https://kairobr26.itch.io/the-legend-of-zoe-the-endles-war)|
-|🧛🏻‍♂️|**A Caçada**|RPG Maker ❔|Completo|[📥](https://kairobr26.itch.io/a-caada)|
+|🐟|**The Legend of Zoe**|RPG Maker MZ|Completo|[📥](https://kairobr26.itch.io/the-legend-of-zoe-the-endles-war)|
+|🧛🏻‍♂️|**A Caçada**|RPG Maker MZ|Completo|[📥](https://kairobr26.itch.io/a-caada)|
 
 <br>
 
-`ALEX KLINIOS`
+# `ALEX KLINIOS`
 
 |||Engine|Estado||
 |-|-|-|-|-|
@@ -128,7 +128,7 @@
 
 <br>
 
-`MISTERDOVAH`
+# `MISTERDOVAH`
 > 🌐[Ver todos](https://misterdovah.itch.io/)
 
 |||Engine|Estado||
@@ -150,41 +150,40 @@
 <br>
 
 # `OMAR`
-> 🌐[Ver todos]()
+> 🌐[Ver todos](https://oz-digital-games.itch.io/)
 
 |||Engine|Estado||
 |-|-|-|-|-|
-|👨🏼‍🦳|**As Aventuras de Rivero**|||[📥](https://oz-digital-games.itch.io/as-aventuras-de-rivero)|
-|👑|**Palavras de Poder**|||[📥](https://oz-digital-games.itch.io/palavrasdepoder)|
-|🙍🏽‍♀️|**Maria, Jornada de uma Vida**|||[📥](https://oz-digital-games.itch.io/maria-a-jornada-de-uma-vida)|
-|🧖🏻‍♂️|**Messias**|||[📥](https://oz-digital-games.itch.io/messias)|
-|👶🏻|**Contos de Vida**|||[📥](https://oz-digital-games.itch.io/contos-de-vida)|
-|✨|**The Last Star**|||[📥](https://oz-digital-games.itch.io/the-last-star)|
-|🐺|**Tíndalos**|||[📥](https://ahiane.itch.io/tindalos)|
-|🐎|**Contos Medievais**|||[📥](https://oz-digital-games.itch.io/contosmedievais)|
-|🎗|**O Horror Amarelo**|||[📥](https://oz-digital-games.itch.io/o-horror-amarelo)|
+|👨🏼‍🦳|**As Aventuras de Rivero**|RPG Maker ❔|Completo|[📥](https://oz-digital-games.itch.io/as-aventuras-de-rivero)|
+|👑|**Palavras de Poder**|RPG Maker ❔|Completo|[📥](https://oz-digital-games.itch.io/palavrasdepoder)|
+|🙍🏽‍♀️|**Maria, Jornada de uma Vida**|RPG Maker ❔|Em Desenvolvimento|[📥](https://oz-digital-games.itch.io/maria-a-jornada-de-uma-vida)|
+|🧖🏻‍♂️|**Messias**|RPG Maker ❔|Em Desenvolvimento|[📥](https://oz-digital-games.itch.io/messias)|
+|👶🏻|**Contos de Vida**|RPG Maker ❔|Completo|[📥](https://oz-digital-games.itch.io/contos-de-vida)|
+|✨|**The Last Star**|RPG Maker ❔|Completo|[📥](https://oz-digital-games.itch.io/the-last-star)|
+|🐺|**Tíndalos**|RPG Maker ❔|Completo|[📥](https://ahiane.itch.io/tindalos)|
+|🐎|**Contos Medievais**|RPG Maker ❔|Completo|[📥](https://oz-digital-games.itch.io/contosmedievais)|
+|🎗|**O Horror Amarelo**|RPG Maker ❔|Completo|[📥](https://oz-digital-games.itch.io/o-horror-amarelo)|
 
 <br>
 
-# `PÃO`
-> 🌐[Ver todos]()
+# `JPAO`
+> 🌐[Ver todos](https://canal-jpao.itch.io/)
 
 |||Engine|Estado||
 |-|-|-|-|-|
-|🔪|**Dream Souls Reaper**|||[📥](https://canal-jpao.itch.io/dream-souls-reaper)|
-|👹|**Toca Hill**|||[📥](https://canal-jpao.itch.io/toca-hill)|
-|🧩|**UNMEI**|||[📥](https://canal-jpao.itch.io/unmei)|
-|🦴|**Vale dos Ossos**|||[📥](https://canal-jpao.itch.io/valley-of-bones)|
+|🔪|**Dream Souls Reaper**|RPG Maker ❔|Em Desenvolvimento|[📥](https://canal-jpao.itch.io/dream-souls-reaper)|
+|👹|**Toca Hill**|RPG Maker ❔|Em Desenvolvimento|[📥](https://canal-jpao.itch.io/toca-hill)|
+|🧩|**UNMEI**|RPG Maker ❔|Em Desenvolvimento|[📥](https://canal-jpao.itch.io/unmei)|
+|🦴|**Vale dos Ossos**|RPG Maker ❔|Em Desenvolvimento|[📥](https://canal-jpao.itch.io/valley-of-bones)|
 
 <br>
 
 # `VALLEK`
-> 🌐[Ver todos]()
 
 |||Engine|Estado||
 |-|-|-|-|-|
-|🦋|**Borboleta Dourada**|||[📥](https://misterdovah.itch.io/borboleta-dourada)|
-|🐂|**Pega de Boi**|||[📥](https://markesxlima.itch.io/pega-de-boi)|
+|🦋|**Borboleta Dourada**|RPG Maker ❔|Completo|[📥](https://misterdovah.itch.io/borboleta-dourada)|
+|🐂|**Pega de Boi**|RPG Maker ❔|Em Desenvolvimento|[📥](https://markesxlima.itch.io/pega-de-boi)|
 
 <br>
 
@@ -193,7 +192,7 @@
 
 |||Engine|Estado||
 |-|-|-|-|-|
-|👨🏻‍✈|**Arquivos Ocultos**|RPG Maker ❔|Em Pausa|[📥](https://rickyobardo.itch.io/hidden-files)|
+|👨🏻‍✈|**Arquivos Ocultos**|RPG Maker ❔|⏸️ Em Pausa|[📥](https://rickyobardo.itch.io/hidden-files)|
 |🔥|**Sozinha na Fogueira**|RPG Maker ❔|Completo|[📥](https://rickyobardo.itch.io/sozinha-na-fogueira)|
 
 <br>
@@ -203,20 +202,19 @@
 
 |||Engine|Estado||
 |-|-|-|-|-|
-|🛡️|**Cavaleiros do Novo Norte**|RPG Maker ❔|Em Desenvolvimento|[📥](https://ryanvitor06.itch.io/demo-knights-of-the-new-north)|
-|🎄|**Cavaleiros Natalinos**|RPG Maker ❔|Completo|[📥](https://ryanvitor06.itch.io/cavaleiros-natalinos)|
-|🐦‍🔥|**Contos de Aldore – Toca do Dragão**|RPG Maker ❔|Completo|[📥](https://ryanvitor06.itch.io/contos-de-aldore-toca)|
+|🛡️|**Cavaleiros do Novo Norte**|RPG Maker MV|Em Desenvolvimento|[📥](https://ryanvitor06.itch.io/demo-knights-of-the-new-north)|
+|🎄|**Cavaleiros Natalinos**|RPG Maker MV|Completo|[📥](https://ryanvitor06.itch.io/cavaleiros-natalinos)|
+|🐦‍🔥|**Contos de Aldore – Toca do Dragão**|RPG Maker MV|Completo|[📥](https://ryanvitor06.itch.io/contos-de-aldore-toca)|
 |🗡|**O Último Juramento**|RPG Maker VX Ace|Completo|[📥](https://condadobraveheart.com/threads/jam-vx-ace-extra-nao-oficial-o-ultimo-juramento.8388/)|
 
 <br>
 
 # `HELL`
-> 🌐[Ver todos]()
 
 |||Engine|Estado||
 |-|-|-|-|-|
-|🗝|**Conto Quebrado**|||[📥](https://samuwe-studios.itch.io/conto-quebrado)|
-|👑|**O Destino de um Rei**|||[📥](https://nelelelen.itch.io/o-destino-de-um-rei)| 
+|🗝|**Conto Quebrado**|RPG Maker ❔|Completo|[📥](https://samuwe-studios.itch.io/conto-quebrado)|
+|👑|**O Destino de um Rei**|RPG Maker ❔|Completo|[📥](https://nelelelen.itch.io/o-destino-de-um-rei)| 
 
 <br>
 
@@ -261,8 +259,8 @@
 
 |||Engine|Estado||
 |-|-|-|-|-|
-|👤|**Livia**|||[📥](https://terraluxgame.itch.io/livia)|
-|⿠|**RTP Adventures Zero**|||[📥](https://terraluxgame.itch.io/adventureszero-jam)|
-|🅰|**RTP Adventures Ace**|||[📥](https://terraluxgame.itch.io/adventures-ace)|
-|🪽|**Chronicles of Terralux - Odisseia Onírica**|||[📥](https://terraluxgame.itch.io/odisseia)|
-|👸🏼|**Princesa - O outro lado da Jornada**|||[📥](https://terraluxgame.itch.io/princesa)|
+|👤|**Livia**|RPG Maker VX Ace|Completo|[📥](https://terraluxgame.itch.io/livia)|
+|⿠|**RTP Adventures Zero**|RPG Maker VX Ace|Em Desenvolvimento|[📥](https://terraluxgame.itch.io/adventureszero-jam)|
+|🅰|**RTP Adventures Ace**|RPG Maker VX Ace|Em Desenvolvimento|[📥](https://terraluxgame.itch.io/adventures-ace)|
+|🪽|**Chronicles of Terralux - Odisseia Onírica**|RPG Maker MZ|Completo|[📥](https://terraluxgame.itch.io/odisseia)|
+|👸🏼|**Princesa - O outro lado da Jornada**|RPG Maker MV|Em Desenvolvimento|[📥](https://terraluxgame.itch.io/princesa)|
