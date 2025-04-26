@@ -9,8 +9,10 @@
 🍊 *Ekorella* https://rockmakerteam.itch.io/ekorella-vol-1-2nd-edition <br>
 🛒 *Ekorella* https://store.steampowered.com/app/1387650/Ekorella_Vol_1/
 
-`DEH` <br>
-🔮 *A Profecia* https://studiohogames.itch.io/a-profecia
+`DEH`
+|||Engine|Estado||
+|-|-|-|-|-|
+|🔮|**A Profecia**|RPG Maker MV|Completo|[📥](https://studiohogames.itch.io/a-profecia)|
 
 # `EDSON`
 > 🌐[Ver todos](https://sinhoed.itch.io/)
@@ -37,10 +39,14 @@
 🎃 *Hell-O-Ween* https://herco.itch.io/hell-o-ween
 
 `HERIC` <br>
+> 🌐[Ver todos]()
+
 🧪 *Mistland* https://hericfisio.itch.io/mistland <br>
 📱 *Utopia* https://hericfisio.itch.io/utopiabr
 
 `KAIRO` <br>
+> 🌐[Ver todos]()
+
 🐟 *The Legend of Zoe* https://kairobr26.itch.io/the-legend-of-zoe-the-endles-war <br>
 🧛🏻‍♂️ *A Caçada* https://kairobr26.itch.io/a-caada
 
@@ -78,11 +84,15 @@
 
 <br>
 
-`MIME`  <br>
+# `MIME`
 🎈 *Baker Bros's Quarantine* https://dev-mime.itch.io/bakerbros <br>
 🛒 *Baker Bros's Quarantine* https://store.steampowered.com/app/3310540/Baker
 
-`MISTERDOVAH`  <br>
+<br>
+
+`MISTERDOVAH`
+> 🌐[Ver todos]()
+
 🏢 *Arcanis* https://misterdovah.itch.io/gamejamplus-arcanis <br>
 🦋 *Borboleta Dourada* https://misterdovah.itch.io/borboleta-dourada <br>
 👻 *BU!* https://misterdovah.itch.io/bu <br>
@@ -94,7 +104,11 @@
 🎓 *Tesserato* https://misterdovah.itch.io/tesserato <br>
 🧩 *UNMEI* https://canal-jpao.itch.io/unmei
 
-`OMAR` <br>
+<br>
+
+# `OMAR`
+> 🌐[Ver todos]()
+
 👨🏼‍🦳 *As Aventuras de Rivero* https://oz-digital-games.itch.io/as-aventuras-de-rivero <br>
 👑 *Palavras de Poder* https://oz-digital-games.itch.io/palavrasdepoder <br>
 🙍🏽‍♀️ *Maria, Jornada de uma Vida* https://oz-digital-games.itch.io/maria-a-jornada-de-uma-vida <br>
@@ -105,34 +119,60 @@
 🐎 *Contos Medievais* https://oz-digital-games.itch.io/contosmedievais <br>
 🎗 *O Horror Amarelo* https://oz-digital-games.itch.io/o-horror-amarelo
 
-`PÃO` <br>
+<br>
+
+# `PÃO`
+> 🌐[Ver todos]()
+
 🔪 *Dream Souls Reaper* https://canal-jpao.itch.io/dream-souls-reaper <br>
 👹 *Toca Hill* https://canal-jpao.itch.io/toca-hill <br>
 🧩 *UNMEI* https://canal-jpao.itch.io/unmei <br>
 🦴 *Vale dos Ossos* https://canal-jpao.itch.io/valley-of-bones
 
-`VALLEK` <br>
+<br>
+
+# `VALLEK`
+> 🌐[Ver todos]()
+
 🦋 *Borboleta Dourada* https://misterdovah.itch.io/borboleta-dourada <br>
 🐂 *Pega de Boi* https://markesxlima.itch.io/pega-de-boi
 
-`RICHARD` <br>
+<br>
+
+# `RICHARD`
+> 🌐[Ver todos]()
+
 👨🏻‍✈ *Arquivos Ocultos* https://rickyobardo.itch.io/hidden-files <br>
 🔥 *Sozinha na Fogueira* https://rickyobardo.itch.io/sozinha-na-fogueira
 
-`RYAN` <br>
+<br>
+
+# `RYAN`
+> 🌐[Ver todos]()
+
 🛡️ *Cavaleiros do Novo Norte* https://ryanvitor06.itch.io/demo-knights-of-the-new-north <br>
 🎄 *Cavaleiros Natalinos* https://ryanvitor06.itch.io/cavaleiros-natalinos <br>
 🐦‍🔥 *Contos de Aldore – Toca do Dragão* https://ryanvitor06.itch.io/contos-de-aldore-toca <br>
 🗡 *O Último Juramento* https://condadobraveheart.com/threads/jam-vx-ace-extra-nao-oficial-o-ultimo-juramento.8388/ 
 
-`HELL` <br>
+<br>
+
+# `HELL`
+> 🌐[Ver todos]()
+
 🗝 *Conto Quebrado* https://samuwe-studios.itch.io/conto-quebrado  <br>
 👑 *O Destino de um Rei* https://nelelelen.itch.io/o-destino-de-um-rei 
 
-`LUCAS RIOT` <br>
+<br>
+
+# `LUCAS RIOT`
 🌗 *Humanelfo - Um Segredo Vai Te Libertar* https://lockdreamsoft.wixsite.com/humanelfo 
 
-`SOLON` <br>
+<br>
+
+# `SOLON`
+> 🌐[Ver todos]()
+
 🐰 *A Aventura de Rossana* https://solonbarcelos.itch.io/a-aventura-de-rossana <br>
 ⭐ *Estrela Solitária* https://solonbarcelos.itch.io/estrela-solitaria <br>
 💠 *Filhos de Herói* https://solonbarcelos.itch.io/filhosdeheroi <br>
@@ -141,14 +181,22 @@
 ⚔ *Power Sword* https://solonbarcelos.itch.io/power-sword <br>
 🏟 *The Mighty Clan* https://solonbarcelos.itch.io/the-mighty-clan
 
-`DR. XGB` <br>
+<br>
+
+# `DR. XGB`
+> 🌐[Ver todos]()
+
 🪣 *Barrel Roller* https://drxgb.itch.io/barrel-roller <br> 
 🕋 *Cárcere Tenebroso* https://drxgb.itch.io/carcere-tenebroso  <br>
 🥖 *Flappy Pão* https://drxgb.itch.io/flappy-pao  <br>
 🔵 *Hell-O* https://drxgb.itch.io/hell-o  <br>
 🃏 *So-Lon-Yo* https://drxgb.itch.io/so-lon-yo 
 
-`GUILHERME` <br>
+<br>
+
+# `GUILHERME`
+> 🌐[Ver todos]()
+
 👤 *Livia* https://terraluxgame.itch.io/livia  <br>
 ⿠ *RTP Adventures Zero* https://terraluxgame.itch.io/adventureszero-jam  <br>
 🅰 *RTP Adventures Ace* https://terraluxgame.itch.io/adventures-ace  <br>
