@@ -128,11 +128,11 @@
 👸🏼 *Princesa - O outro lado da Jornada* https://terraluxgame.itch.io/princesa 
 
 `GIAN CICLOPE`
-*Chá* https://www.4shared.com/file/amZM5189ge/CH_online.html?
-*Correntes de Versília* https://condadobraveheart.com/threads/jam-vx-ace-extra-nao-oficial-correntes-de-versilia.8390/
-*Creaptive Heart* https://centrorpg.com/index.php?topic=21393.0
-*Linhagem Axis (Demo 2021)* https://centrorpg.com/index.php?topic=11065.0
-*Maker Story 2* https://www.4shared.com/file/P21gvcM1/maker_story_2_-_ciclope.html?
-*Mulheres que Correm dos Lobos* https://ciclope.itch.io/mulheres-que-correm-dos-lobos
-*Omni Cyber* https://centrorpg.com/index.php?topic=23567.0
-*The Book of Knowledge - CCAA* https://www.4shared.com/rar/otjnh3uXge/The_Book_of_Knowledge_-_CCAA.html?
+🍵 *Chá* https://www.4shared.com/file/amZM5189ge/CH_online.html?
+⛓️‍💥 *Correntes de Versília* https://condadobraveheart.com/threads/jam-vx-ace-extra-nao-oficial-correntes-de-versilia.8390/
+💔 *Creaptive Heart* https://centrorpg.com/index.php?topic=21393.0
+⏳ *Linhagem Axis (Demo 2021)* https://centrorpg.com/index.php?topic=11065.0
+📚*Maker Story 2* https://www.4shared.com/file/P21gvcM1/maker_story_2_-_ciclope.html?
+🏃🏻‍♀️ *Mulheres que Correm dos Lobos* https://ciclope.itch.io/mulheres-que-correm-dos-lobos
+🤖 *Omni Cyber* https://centrorpg.com/index.php?topic=23567.0
+📖 *The Book of Knowledge - CCAA* https://www.4shared.com/rar/otjnh3uXge/The_Book_of_Knowledge_-_CCAA.html?

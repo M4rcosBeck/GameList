@@ -267,7 +267,7 @@
 
 <br>
 
-# `Gian Ciclope`
+# `GIAN CICLOPE`
 > 🌐[Ver todos]()
 
 |||Engine|Estado||
