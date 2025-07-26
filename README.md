@@ -54,9 +54,11 @@
 <br>
 
 # `HERCO`
+> 🌐[Ver todos](https://herco.itch.io/)
 |||Engine|Estado||
 |-|-|-|-|-|
-|🎃|**Hell-O-Ween**|RPG Maker ❔|Completo|[📥](https://herco.itch.io/hell-o-ween)|
+|🎃|**Hell-O-Ween**|RPG Maker XP|Completo|[📥](https://herco.itch.io/hell-o-ween)|
+|🚀|**Mesopotamia**|RPG Maker XP|Completo|[📥](https://herco.itch.io/mspt)|
 
 <br>
 
@@ -268,12 +270,12 @@
 <br>
 
 # `GIAN CICLOPE`
-> 🌐[Ver todos]()
+> 🌐[itch.io](https://ciclope.itch.io/)
 
 |||Engine|Estado||
 |-|-|-|-|-|
 |🍵|**Chá**|RPG Maker ❔|❔|[📥](https://www.4shared.com/file/amZM5189ge/CH_online.html?)|
-|⛓️‍💥|**Correntes de Versília**|RPG Maker ❔|❔|[📥](https://condadobraveheart.com/threads/jam-vx-ace-extra-nao-oficial-correntes-de-versilia.8390/)|
+|⛓️|**Correntes de Versília**|RPG Maker ❔|❔|[📥](https://condadobraveheart.com/threads/jam-vx-ace-extra-nao-oficial-correntes-de-versilia.8390/)|
 |💔|**Creaptive Heart**|RPG Maker ❔|❔|[📥](https://ciclope.itch.io/creaptive-heart)|
 |⏳|**Linhagem Axis (Demo 2021)**|RPG Maker ❔|❔|[📥](https://centrorpg.com/index.php?topic=11065.0)|
 |📚|**Maker Story 2**|RPG Maker ❔|❔|[📥](https://www.4shared.com/file/P21gvcM1/maker_story_2_-_ciclope.html?)|
